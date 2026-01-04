@@ -76,10 +76,6 @@
 <div align="center" style="margin: 40px 0;">
   <h2 style="color: #EC4899; font-size: 22px; margin-bottom: 20px;">📈 Activity Dashboard</h2>
   
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingGeoff&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&bg_color=00000000&fire=A855F7" alt="GitHub Streak" height="165" />
-  </div>
-
   <div style="margin-top: 20px;">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Snake Animation" />
   </div>
